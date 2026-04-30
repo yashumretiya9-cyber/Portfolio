@@ -13,8 +13,7 @@ const Contact = () => {
     const data = Object.fromEntries(formData.entries())
 
     try {
-      // Changed to relative path for Vercel deployment
-      const response = await fetch('/api/contact', {
+      const response = await fetch('http://localhost:5000/api/contact', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
