@@ -58,7 +58,7 @@ const LetsWork = () => {
 
         <div className={`orbit-container ${isGathered ? 'is-gathered' : ''}`}>
           <div className="orbit-wrapper">
-            <a href="https://github.com/yashumretiya9-cyber" target="_blank" rel="noopener noreferrer" className="icon github sm-socials-link">
+            <a href="https://github.com/" target="_blank" rel="noopener noreferrer" className="icon github sm-socials-link">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
             </a>
             <a href="https://www.linkedin.com/feed/" target="_blank" rel="noopener noreferrer" className="icon linkedin sm-socials-link">

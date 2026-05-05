@@ -20,7 +20,7 @@ const Hero = () => {
           <a href="#contact">Say Hello</a>
         </button>
         <div className="hero-socials">
-          <a href="https://github.com/yashumretiya9-cyber" target="_blank" rel="noopener noreferrer" className="hero-social-link"><i className="ri-github-line"></i></a>
+          <a href="https://github.com/" target="_blank" rel="noopener noreferrer" className="hero-social-link"><i className="ri-github-line"></i></a>
           <a href="https://www.linkedin.com/feed/" target="_blank" rel="noopener noreferrer" className="hero-social-link"><i className="ri-linkedin-line"></i></a>
           <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="hero-social-link"><i className="ri-twitter-x-line"></i></a>
           <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="hero-social-link"><i className="ri-instagram-line"></i></a>

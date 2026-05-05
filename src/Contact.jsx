@@ -75,7 +75,7 @@ const Contact = () => {
           </div>
 
           <div className="contact-socials">
-            <a href="https://github.com/yashumretiya9-cyber" target="_blank" rel="noopener noreferrer" className="cs-icon"><i className="ri-github-fill"></i></a>
+            <a href="https://github.com/" target="_blank" rel="noopener noreferrer" className="cs-icon"><i className="ri-github-fill"></i></a>
             <a href="https://www.linkedin.com/feed/" target="_blank" rel="noopener noreferrer" className="cs-icon"><i className="ri-linkedin-box-fill"></i></a>
             <a href="#" target="_blank" rel="noopener noreferrer" className="cs-icon"><i className="ri-twitter-x-fill"></i></a>
           </div>

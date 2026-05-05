@@ -11,7 +11,7 @@ const projects = [
     title: 'Cloth Store', subtitle: 'E-Commerce Cloth Selling',
     tags: ['React', 'Tailwind CSS', 'Express.js', 'Node.js'],
     year: '2024', role: 'Full Stack Developer',
-    github: 'https://github.com/yashumretiya9-cyber/E-Commerce---project', color: '#f05e81',
+    github: 'https://github.com/', color: '#f05e81',
     cs: {
       overview: 'Cloth Store is a premium full-stack e-commerce platform designed for modern fashion enthusiasts to discover, filter, and purchase the latest clothing trends with a seamless shopping experience.',
       challenge: 'The fashion market is highly competitive, requiring a platform that not only looks visually stunning but also provides lightning-fast performance and an intuitive filtering system for sizes, colors, and categories.',
@@ -26,7 +26,7 @@ const projects = [
     title: 'TaskFlow', subtitle: 'Task Management System',
     tags: ['Angular', 'Node.js', 'Express.js', 'MongoDB'],
     year: '2023', role: 'Full Stack Developer',
-    github: 'https://github.com/yashumretiya9-cyber/TMS-Angular-Project', color: '#76d0ec',
+    github: 'https://github.com/', color: '#76d0ec',
     cs: {
       overview: 'TaskFlow is a powerful MEAN stack application designed to help teams and individuals track productivity, manage deadlines, and organize complex projects in real-time.',
       challenge: 'Users often struggle with cluttered interfaces and slow synchronization when managing multiple tasks. The goal was to build a high-performance system that handles complex states and real-time updates seamlessly.',
