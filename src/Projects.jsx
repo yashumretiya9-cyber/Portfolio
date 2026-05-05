@@ -63,6 +63,7 @@ const GithubModal = ({ color, onClose }) => {
     )
     const t = setTimeout(() => handleClose(), 3500)
     return () => clearTimeout(t)
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
   const handleClose = () => {
